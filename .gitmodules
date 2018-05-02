@@ -1,6 +1,0 @@
-[submodule "BookLeaf_Cpp"]
-	path = BookLeaf_Cpp
-	url = https://github.com/UK-MAC/BookLeaf_Cpp
-[submodule "BookLeaf_F90"]
-	path = BookLeaf_F90
-	url = https://github.com/UK-MAC/BookLeaf_F90
