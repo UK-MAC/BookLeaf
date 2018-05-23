@@ -28,4 +28,5 @@ implementation for specific build instructions.
 
 ## Release history
 
+* 23/05/2018, version 2.0.1
 * 02/05/2018, version 2.0
